@@ -1,0 +1,4 @@
+﻿  Reading Qt configuration (C:/Qt/5.14.2/msvc2017/bin/qmake)
+  DMX.cpp
+c:\users\formation\desktop\dmx doggo edition\dmx\dmx\dmx.cpp(19): error C2039: 'state' : n'est pas membre de 'Ui::DMXClass'
+  c:\users\formation\desktop\dmx doggo edition\dmx\dmx\debug\uic\ui_dmx.h(61): note: voir la déclaration de 'Ui::DMXClass'
